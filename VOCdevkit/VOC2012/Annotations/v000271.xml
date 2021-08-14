@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+	<filename>v000271.jpg</filename>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>1881</xmin>
+			<ymin>1613</ymin>
+			<xmax>2192</xmax>
+			<ymax>1911</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>1407</xmin>
+			<ymin>997</ymin>
+			<xmax>1555</xmax>
+			<ymax>1192</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>1420</xmin>
+			<ymin>1764</ymin>
+			<xmax>1718</xmax>
+			<ymax>2044</ymax>
+		</bndbox>
+	</object>
+</annotation>

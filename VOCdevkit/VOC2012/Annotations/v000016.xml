@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+	<filename>v000016.jpg</filename>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>1147</xmin>
+			<ymin>639</ymin>
+			<xmax>1319</xmax>
+			<ymax>712</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>607</xmin>
+			<ymin>713</ymin>
+			<xmax>836</xmax>
+			<ymax>884</ymax>
+		</bndbox>
+	</object>
+</annotation>

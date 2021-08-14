@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+	<filename>000517.jpg</filename>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>3039</xmin>
+			<ymin>1640</ymin>
+			<xmax>3375</xmax>
+			<ymax>1895</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>2195</xmin>
+			<ymin>1938</ymin>
+			<xmax>2531</xmax>
+			<ymax>2161</ymax>
+		</bndbox>
+	</object>
+</annotation>

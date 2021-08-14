@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+   <filename>001512.jpg</filename>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>89</xmin>
+         <ymin>644</ymin>
+         <xmax>407</xmax>
+         <ymax>792</ymax>
+      </bndbox>
+   </object>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>echinus</name>
+      <bndbox>
+         <xmin>1456</xmin>
+         <ymin>687</ymin>
+         <xmax>1550</xmax>
+         <ymax>792</ymax>
+      </bndbox>
+   </object>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>starfish</name>
+      <bndbox>
+         <xmin>1669</xmin>
+         <ymin>780</ymin>
+         <xmax>1819</xmax>
+         <ymax>880</ymax>
+      </bndbox>
+   </object>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>starfish</name>
+      <bndbox>
+         <xmin>904</xmin>
+         <ymin>577</ymin>
+         <xmax>1048</xmax>
+         <ymax>678</ymax>
+      </bndbox>
+   </object>
+</annotation>

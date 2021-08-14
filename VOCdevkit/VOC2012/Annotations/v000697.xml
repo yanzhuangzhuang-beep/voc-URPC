@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+	<filename>v000697.jpg</filename>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1316</xmin>
+			<ymin>569</ymin>
+			<xmax>1505</xmax>
+			<ymax>755</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1845</xmin>
+			<ymin>982</ymin>
+			<xmax>1994</xmax>
+			<ymax>1139</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>1699</xmin>
+			<ymin>982</ymin>
+			<xmax>1851</xmax>
+			<ymax>1166</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>1040</xmin>
+			<ymin>334</ymin>
+			<xmax>1262</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+</annotation>

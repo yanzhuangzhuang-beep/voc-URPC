@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+   <filename>004221.jpg</filename>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>echinus</name>
+      <bndbox>
+         <xmin>303</xmin>
+         <ymin>291</ymin>
+         <xmax>367</xmax>
+         <ymax>360</ymax>
+      </bndbox>
+   </object>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>echinus</name>
+      <bndbox>
+         <xmin>34</xmin>
+         <ymin>237</ymin>
+         <xmax>73</xmax>
+         <ymax>274</ymax>
+      </bndbox>
+   </object>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>echinus</name>
+      <bndbox>
+         <xmin>198</xmin>
+         <ymin>205</ymin>
+         <xmax>231</xmax>
+         <ymax>235</ymax>
+      </bndbox>
+   </object>
+</annotation>

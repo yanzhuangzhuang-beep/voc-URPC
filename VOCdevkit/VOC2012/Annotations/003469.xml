@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+   <filename>003469.jpg</filename>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>scallop</name>
+      <bndbox>
+         <xmin>390</xmin>
+         <ymin>368</ymin>
+         <xmax>415</xmax>
+         <ymax>392</ymax>
+      </bndbox>
+   </object>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>starfish</name>
+      <bndbox>
+         <xmin>571</xmin>
+         <ymin>335</ymin>
+         <xmax>651</xmax>
+         <ymax>399</ymax>
+      </bndbox>
+   </object>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>echinus</name>
+      <bndbox>
+         <xmin>457</xmin>
+         <ymin>197</ymin>
+         <xmax>481</xmax>
+         <ymax>225</ymax>
+      </bndbox>
+   </object>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>echinus</name>
+      <bndbox>
+         <xmin>330</xmin>
+         <ymin>40</ymin>
+         <xmax>378</xmax>
+         <ymax>84</ymax>
+      </bndbox>
+   </object>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>438</xmin>
+         <ymin>355</ymin>
+         <xmax>494</xmax>
+         <ymax>406</ymax>
+      </bndbox>
+   </object>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>415</xmin>
+         <ymin>324</ymin>
+         <xmax>479</xmax>
+         <ymax>357</ymax>
+      </bndbox>
+   </object>
+</annotation>

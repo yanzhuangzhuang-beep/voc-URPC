@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+	<filename>v000206.jpg</filename>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>1087</xmin>
+			<ymin>1324</ymin>
+			<xmax>1461</xmax>
+			<ymax>1497</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>1644</ymin>
+			<xmax>981</xmax>
+			<ymax>1879</ymax>
+		</bndbox>
+	</object>
+</annotation>

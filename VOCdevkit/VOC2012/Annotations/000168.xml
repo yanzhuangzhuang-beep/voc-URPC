@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+	<filename>000168.jpg</filename>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>1414</xmin>
+			<ymin>1237</ymin>
+			<xmax>1840</xmax>
+			<ymax>1439</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>1116</xmin>
+			<ymin>1755</ymin>
+			<xmax>1759</xmax>
+			<ymax>2049</ymax>
+		</bndbox>
+	</object>
+</annotation>

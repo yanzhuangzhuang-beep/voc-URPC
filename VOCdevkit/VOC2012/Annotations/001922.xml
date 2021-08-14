@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+   <filename>001922.jpg</filename>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>scallop</name>
+      <bndbox>
+         <xmin>565</xmin>
+         <ymin>289</ymin>
+         <xmax>642</xmax>
+         <ymax>332</ymax>
+      </bndbox>
+   </object>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>echinus</name>
+      <bndbox>
+         <xmin>382</xmin>
+         <ymin>338</ymin>
+         <xmax>458</xmax>
+         <ymax>406</ymax>
+      </bndbox>
+   </object>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>echinus</name>
+      <bndbox>
+         <xmin>236</xmin>
+         <ymin>205</ymin>
+         <xmax>298</xmax>
+         <ymax>279</ymax>
+      </bndbox>
+   </object>
+</annotation>

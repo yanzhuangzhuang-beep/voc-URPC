@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+	<filename>v000427.jpg</filename>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1940</xmin>
+			<ymin>1977</ymin>
+			<xmax>2156</xmax>
+			<ymax>2161</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1840</xmin>
+			<ymin>1609</ymin>
+			<xmax>2005</xmax>
+			<ymax>1731</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>2480</xmin>
+			<ymin>1563</ymin>
+			<xmax>2605</xmax>
+			<ymax>1669</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>3064</xmin>
+			<ymin>1250</ymin>
+			<xmax>3196</xmax>
+			<ymax>1361</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>3737</xmin>
+			<ymin>1312</ymin>
+			<xmax>3840</xmax>
+			<ymax>1417</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>3358</xmin>
+			<ymin>1754</ymin>
+			<xmax>3643</xmax>
+			<ymax>1889</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>3017</xmin>
+			<ymin>1931</ymin>
+			<xmax>3134</xmax>
+			<ymax>2003</ymax>
+		</bndbox>
+	</object>
+</annotation>

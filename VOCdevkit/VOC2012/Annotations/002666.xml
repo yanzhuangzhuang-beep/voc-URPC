@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+   <filename>002666.jpg</filename>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>starfish</name>
+      <bndbox>
+         <xmin>402</xmin>
+         <ymin>237</ymin>
+         <xmax>451</xmax>
+         <ymax>276</ymax>
+      </bndbox>
+   </object>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>starfish</name>
+      <bndbox>
+         <xmin>223</xmin>
+         <ymin>301</ymin>
+         <xmax>288</xmax>
+         <ymax>363</ymax>
+      </bndbox>
+   </object>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>starfish</name>
+      <bndbox>
+         <xmin>197</xmin>
+         <ymin>151</ymin>
+         <xmax>261</xmax>
+         <ymax>208</ymax>
+      </bndbox>
+   </object>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>starfish</name>
+      <bndbox>
+         <xmin>1</xmin>
+         <ymin>201</ymin>
+         <xmax>56</xmax>
+         <ymax>266</ymax>
+      </bndbox>
+   </object>
+</annotation>

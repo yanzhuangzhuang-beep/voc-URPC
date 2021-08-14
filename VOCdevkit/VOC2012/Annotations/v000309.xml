@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+	<filename>v000309.jpg</filename>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>3495</xmin>
+			<ymin>1581</ymin>
+			<xmax>3736</xmax>
+			<ymax>1822</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>3359</xmin>
+			<ymin>702</ymin>
+			<xmax>3515</xmax>
+			<ymax>816</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>3406</xmin>
+			<ymin>1031</ymin>
+			<xmax>3624</xmax>
+			<ymax>1200</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>2222</xmin>
+			<ymin>1936</ymin>
+			<xmax>2542</xmax>
+			<ymax>2161</ymax>
+		</bndbox>
+	</object>
+</annotation>

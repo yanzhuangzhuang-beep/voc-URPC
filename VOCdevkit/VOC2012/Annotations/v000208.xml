@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+	<filename>v000208.jpg</filename>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>1101</xmin>
+			<ymin>1585</ymin>
+			<xmax>1557</xmax>
+			<ymax>2019</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>3184</xmin>
+			<ymin>1620</ymin>
+			<xmax>3496</xmax>
+			<ymax>1843</ymax>
+		</bndbox>
+	</object>
+</annotation>

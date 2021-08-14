@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+	<filename>000314.jpg</filename>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>3086</xmin>
+			<ymin>247</ymin>
+			<xmax>3840</xmax>
+			<ymax>977</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>2453</xmin>
+			<ymin>601</ymin>
+			<xmax>3105</xmax>
+			<ymax>1401</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>1067</xmin>
+			<ymin>242</ymin>
+			<xmax>1659</xmax>
+			<ymax>747</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>832</xmin>
+			<ymin>750</ymin>
+			<xmax>1383</xmax>
+			<ymax>1055</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>1299</xmin>
+			<ymin>888</ymin>
+			<xmax>1953</xmax>
+			<ymax>1590</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>870</xmin>
+			<ymin>1317</ymin>
+			<xmax>1259</xmax>
+			<ymax>1853</ymax>
+		</bndbox>
+	</object>
+</annotation>

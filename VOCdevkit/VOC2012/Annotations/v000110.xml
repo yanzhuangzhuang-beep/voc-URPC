@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+	<filename>v000110.jpg</filename>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>1548</xmin>
+			<ymin>1417</ymin>
+			<xmax>1921</xmax>
+			<ymax>1626</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+   <filename>001859.jpg</filename>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>scallop</name>
+      <bndbox>
+         <xmin>664</xmin>
+         <ymin>111</ymin>
+         <xmax>699</xmax>
+         <ymax>145</ymax>
+      </bndbox>
+   </object>
+   
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+      <name>holothurian</name>
+      <bndbox>
+         <xmin>142</xmin>
+         <ymin>208</ymin>
+         <xmax>243</xmax>
+         <ymax>316</ymax>
+      </bndbox>
+   </object>
+</annotation>

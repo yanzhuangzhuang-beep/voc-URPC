@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+	<filename>000666.jpg</filename>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>1972</xmin>
+			<ymin>1303</ymin>
+			<xmax>2110</xmax>
+			<ymax>1419</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>1553</xmin>
+			<ymin>666</ymin>
+			<xmax>1687</xmax>
+			<ymax>745</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>1117</xmin>
+			<ymin>785</ymin>
+			<xmax>1273</xmax>
+			<ymax>874</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>3371</xmin>
+			<ymin>1946</ymin>
+			<xmax>3728</xmax>
+			<ymax>2161</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>2034</xmin>
+			<ymin>1199</ymin>
+			<xmax>2182</xmax>
+			<ymax>1320</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>1115</xmin>
+			<ymin>847</ymin>
+			<xmax>1288</xmax>
+			<ymax>931</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>1786</xmin>
+			<ymin>852</ymin>
+			<xmax>1949</xmax>
+			<ymax>931</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>1709</xmin>
+			<ymin>783</ymin>
+			<xmax>1823</xmax>
+			<ymax>854</ymax>
+		</bndbox>
+	</object>
+</annotation>

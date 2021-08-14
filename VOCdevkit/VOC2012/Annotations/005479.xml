@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+	<filename>005479.jpg</filename>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>3413</xmin>
+			<ymin>1177</ymin>
+			<xmax>3721</xmax>
+			<ymax>1616</ymax>
+		</bndbox>
+	</object>
+</annotation>

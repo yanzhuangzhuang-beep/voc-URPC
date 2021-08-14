@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <annotation>
+		<size>     
+		    <width>1920</width>
+		    <height>1080</height>
+		    <depth>3</depth>
+	    </size>
+
+	<filename>v000692.jpg</filename>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>3715</xmin>
+			<ymin>1607</ymin>
+			<xmax>3840</xmax>
+			<ymax>1766</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>3196</xmin>
+			<ymin>1642</ymin>
+			<xmax>3361</xmax>
+			<ymax>1798</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>2926</xmin>
+			<ymin>1366</ymin>
+			<xmax>3115</xmax>
+			<ymax>1566</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>1797</xmin>
+			<ymin>269</ymin>
+			<xmax>1932</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>1894</xmin>
+			<ymin>966</ymin>
+			<xmax>2080</xmax>
+			<ymax>1123</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1251</xmin>
+			<ymin>1893</ymin>
+			<xmax>1475</xmax>
+			<ymax>2015</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1716</xmin>
+			<ymin>866</ymin>
+			<xmax>1899</xmax>
+			<ymax>999</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1259</xmin>
+			<ymin>404</ymin>
+			<xmax>1402</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>
